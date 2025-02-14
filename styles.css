@@ -337,6 +337,10 @@ img {
   .body__container {
     width: 50%;
   }
+
+  .success__body__container {
+    width: 25%;
+  }
 }
 
 /* Attribution Styles */
